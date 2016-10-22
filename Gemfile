@@ -12,6 +12,7 @@ group :production do
   gem 'pg'
 end
 
+gem 'pry'
 gem 'carrierwave'
 gem 'mini_magick'
 # Use Puma as the app server
